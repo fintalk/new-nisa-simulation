@@ -1,0 +1,8 @@
+jupyter
+pandas 
+numpy
+matplotlib
+japanize-matplotlib
+
+# メンテナンスされていないので使わない
+# pandas-datareader 
